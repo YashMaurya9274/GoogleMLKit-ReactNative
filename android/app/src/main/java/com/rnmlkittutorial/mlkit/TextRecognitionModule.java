@@ -25,9 +25,6 @@ import com.google.mlkit.vision.text.TextRecognizerOptions;
 
 import java.io.IOException;
 
-/**
- * Created by Dmytro Portenko on 14.07.2021.
- */
 public class TextRecognitionModule extends ReactContextBaseJavaModule {
     TextRecognitionModule(ReactApplicationContext context) {
         super(context);
